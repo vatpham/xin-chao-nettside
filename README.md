@@ -1,6 +1,6 @@
-# Xin Chào Restaurant - Nettside
+# Xin Chao Restaurant - Nettside
 
-Dette er nettsiden for den vietnamesiske restauranten **Xin Chào**, laget som en del av et IT-utviklingsprosjekt. Nettsiden er utviklet for å være innbydende og brukervennlig, og den viser menyen på en formålsmessig måte. Den er responsiv, slik at den fungerer både på mobil og PC.
+Dette er nettsiden for den vietnamesiske restauranten **Xin Chao**, laget som en del av et IT-utviklingsprosjekt. Nettsiden er utviklet for å være innbydende og brukervennlig, og den viser menyen på en formålsmessig måte. Den er responsiv, slik at den fungerer både på mobil og PC.
 
 ## Innhold
 - [Beskrivelse](#beskrivelse)
@@ -10,7 +10,7 @@ Dette er nettsiden for den vietnamesiske restauranten **Xin Chào**, laget som e
 
 ## Beskrivelse
 
-Nettsiden for **Xin Chào** inkluderer:
+Nettsiden for **Xin Chao** inkluderer:
 - **Meny:** En oversikt over restaurantens retter, designet på en ryddig og visuelt tiltalende måte.
 - **Kontaktinformasjon:** Adresse, telefonnummer og åpningstider for restauranten.
 - **Google Maps integrasjon:** En innebygd kartvisning for å vise restaurantens lokasjon.
@@ -28,11 +28,11 @@ For å sette opp nettsiden lokalt, følg disse stegene:
 
 1. Klon prosjektet:
    ```bash
-   git clone https://github.com/vipha003/xin-chao-nettside.git
+   git clone https://github.com/vatpham/xin-chao-nettside.git
 
 2. Naviger til prosjektmappen:
    ```bash
-   cd xin-chao-nettside/src
+   cd xin-chao-nettside
 
 3. Installer avhengigheter:
    ```bash
@@ -50,7 +50,7 @@ Besøk nettsiden for å se menyen, finne kontaktinformasjon og se kartet med res
 
 Dette prosjektet er bygget med følgende teknologier:
 
-- **Frontend:** HTML, CSS (Tailwind CSS), JavaScript
+- **Frontend:** React, HTML, CSS (Tailwind CSS), JavaScript
 - **Google Maps:** For kartintegrasjon
 - **Hosting:** Vercel
 - **Versjonskontroll:** GitHub
